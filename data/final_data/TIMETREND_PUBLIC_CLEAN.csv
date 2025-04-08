@@ -1,0 +1,19 @@
+race,urbanization,enrollment_status,total_bene_th_elig,total_partb_enrl,total_bene_telehealth,pct_telehealth
+American Indian/Alaska Native,Rural,All,1080899.0,1368005.833327,292171.0,0.25866
+American Indian/Alaska Native,Unknown,All,0.0,0.0,0.0,
+American Indian/Alaska Native,Urban,All,821659.0,1041482.5,254013.0,0.29846
+Asian/Pacific Islander,Rural,All,482038.0,688475.416665,102453.0,0.20642666666666667
+Asian/Pacific Islander,Unknown,All,0.0,0.0,0.0,
+Asian/Pacific Islander,Urban,All,9880074.0,13576697.08334,3113930.0,0.3095
+Black non-Hispanic,Rural,All,3924002.0,4951174.58332,794273.0,0.18976
+Black non-Hispanic,Unknown,All,0.0,0.0,0.0,
+Black non-Hispanic,Urban,All,25001399.0,32576185.416699998,7154655.0,0.2755466666666667
+Hispanic,Rural,All,2494867.0,3514172.08332,661061.0,0.2560266666666667
+Hispanic,Unknown,All,0.0,0.0,0.0,
+Hispanic,Urban,All,17316518.0,24322129.583300002,5645995.0,0.31699333333333335
+White non-Hispanic,Rural,All,73337370.0,93597279.9999,14235356.0,0.18726666666666666
+White non-Hispanic,Unknown,All,0.0,0.0,0.0,
+White non-Hispanic,Urban,All,221983531.0,272046297.5,56130051.0,0.24656666666666668
+Other non-Hispanic,Rural,All,0.0,0.0,0.0,
+Other non-Hispanic,Unknown,All,0.0,0.0,0.0,
+Other non-Hispanic,Urban,All,0.0,0.0,0.0,
