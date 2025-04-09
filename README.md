@@ -45,26 +45,24 @@ These are the files after the data cleaning was performed
 ### Research Question 1: Racial and ethnic disparities in telehealth usage
 - Notebook: data_extract_analysis.ipynb
 
-- Cell: 8
+- Cell: 5
 
-- Query line: Starts at line 2
+- Query line: Starts at line 9
 
-- Description: Compares average percent_yes (telehealth adoption) across racial groups from telemedicineprovider table and maps it to population share using beneficiarydata.
 
 ### Research Question 2: Geographic (urban vs rural) differences in adoption patterns
 - Notebook: data_extract_analysis.ipynb
 
-- Cell: 11
+- Cell: 5
 
-- Query line: Starts at line 3
+- Query line: Starts at line 17
 
-- Description: Groups telehealth usage by urbanization in both datasets and compares aggregated values.
 
 ### Research Question 3: Educational attainment and telehealth usage
 - Notebook: data_extract_analysis.ipynb
 
-- Cell: 14
+- Cell: 5
 
-- Query line: Starts at line 1
+- Query line: Starts at line 27
 
-- Description: Aggregates and compares telehealth usage by education level across time.
+
