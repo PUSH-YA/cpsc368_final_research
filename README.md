@@ -10,6 +10,14 @@ Specifically, it examines **racial** and **ethnic disparities**, **geographic di
 By analyzing these factors, the study aims to quantify disparities, identify barriers to access for underserved communities, and contribute to evidence-based policy recommendations for equitable healthcare delivery. 
 - The research also explores how telehealth expansion either mitigated or amplified existing healthcare inequities, with a focus on rural/urban classifications to better understand geographic disparities.
 
+## Dependencies 
+ - pandas
+ - numpy
+ - matplotlib
+ - seaborn
+ - scipy
+ - Oracle DB
+
 ## File Descriptions
 
 ### Data files (Raw)
@@ -32,3 +40,31 @@ These are the files after the data cleaning was performed
 
 - **Final report.pdf**: The final report summarizing the findings of the research project.
 - **README.md**: This file, providing an overview of the project and its contents.
+
+## SQL Queries Location
+### Research Question 1: Racial and ethnic disparities in telehealth usage
+- Notebook: data_extract_analysis.ipynb
+
+- Cell: 8
+
+- Query line: Starts at line 2
+
+- Description: Compares average percent_yes (telehealth adoption) across racial groups from telemedicineprovider table and maps it to population share using beneficiarydata.
+
+### Research Question 2: Geographic (urban vs rural) differences in adoption patterns
+- Notebook: data_extract_analysis.ipynb
+
+- Cell: 11
+
+- Query line: Starts at line 3
+
+- Description: Groups telehealth usage by urbanization in both datasets and compares aggregated values.
+
+### Research Question 3: Educational attainment and telehealth usage
+- Notebook: data_extract_analysis.ipynb
+
+- Cell: 14
+
+- Query line: Starts at line 1
+
+- Description: Aggregates and compares telehealth usage by education level across time.
